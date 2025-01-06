@@ -43,10 +43,6 @@ Eco-Tree is a web-based application that uses advanced machine learning techniqu
    ```
 
 5. Open a web browser and navigate to `http://localhost:5000` to use the application.
-   
-![Demo](images/demo.gif)
-
-![Analysis Results](images/detected.jpg) ![Analysis Results](images/Raw.jpg)
 
 ## Usage
 
@@ -55,6 +51,14 @@ Eco-Tree is a web-based application that uses advanced machine learning techniqu
 3. Click "Analyze Trees" or "Update Analysis" to process the selected area or image.
 4. View the results, including tree count, area covered, and tree density.
 5. Download the processed image or explore the visualizations.
+   
+![Demo](images/demo.gif)
+
+ ![Analysis Results](images/Raw.jpg)
+ ![Analysis Results](images/detected.jpg)
+ ![Analysis Results](images/results.jpg)
+
+
 
 ## Project Structure
 
