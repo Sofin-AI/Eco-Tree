@@ -45,7 +45,8 @@ Eco-Tree is a web-based application that uses advanced machine learning techniqu
 5. Open a web browser and navigate to `http://localhost:5000` to use the application.
    
 ![Eco-Tree Interface](images/demo.mp4)
-![Analysis Results](images/detected.jpg, images/Raw.jpg)
+
+![Analysis Results](images/detected.jpg) ![Analysis Results](images/Raw.jpg)
 
 ## Usage
 
